@@ -37,5 +37,5 @@ ORDER BY COUNT(*) DESC LIMIT 1;
 end
 
 def select_character_names_and_number_of_books_they_are_in
-  "Write your SQL query here"
+
 end
